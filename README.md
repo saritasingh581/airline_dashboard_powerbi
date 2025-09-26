@@ -1,4 +1,3 @@
-✈️ Airline Price & Route Analysis Dashboard
 📊 Project Overview
 
 This project analyzes airline prices, routes, and flight trends using a dataset from Kaggle.
