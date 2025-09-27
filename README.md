@@ -1,47 +1,67 @@
-📊 Project Overview
+✈ Airline Price & Route Analysis
 
-This project analyzes airline prices, routes, and flight trends using a dataset from Kaggle.
-The goal was to transform raw flight data into actionable insights through an interactive Power BI dashboard.
+This project turns raw airline data into actionable insights using Power BI. The dashboard explores flight routes, pricing, and demand patterns to help understand how airlines operate and how ticket prices vary.
 
-🔑 Key Insights
+🔎 What’s Inside  
 
-118K+ Flights Analyzed
+- Raw & Clean Data → Flight dataset before and after preprocessing  
+- Power BI Dashboard → Interactive .pbix file  
+- Dashboard Preview → Image (.png) & Walkthrough (.mp4)  
 
-Price trends by airline, class, and booking days left
+📊 Dashboard Highlights
 
-Flight patterns by departure time & stops
+✔️ Key KPIs – Total Flights, Revenue, Max/Min Price, Duration
+✔️ Price Analysis – By class, airline, and days left before departure
+✔️ Flight Distribution – By departure time and number of stops
+✔️ Route Insights – Source vs destination city matrix
+✔️ Interactive Filters – City, Airline, Class, Stops, Departure Time
 
-Route heatmap between major Indian cities
+💡 Insights Discovered
 
-🛠 Skills Practiced
+Business Class makes up ~89% of bookings
 
-Data cleaning & transformation
+Air India & Vistara show the highest prices, AirAsia the lowest
 
-DAX calculations
+Ticket prices fall as departure day approaches
 
-Designing interactive Power BI dashboards
+Evening & Morning slots have the highest flight counts
 
-Storytelling with data
+Most flights operate with one stop
 
-📂 Dataset
+🛠 Tools Used
 
-Source: Kaggle
+Power BI Desktop → Dashboard creation
 
-💻 Project Files
+Excel / Power Query → Data cleaning
 
-Power BI .pbix file
+Dataset → Taken from Kaggle
 
-Dataset CSV
+🚀 Get Started
 
-Dashboard screenshot
-
-🚀 How to Use
-
-Clone this repository
+Clone this repo:
 
 git clone https://github.com/<your-username>/<repo-name>.git
 
 
+Open dashboard.pbix in Power BI Desktop.
+
+Interact with filters to explore flight patterns and price trends.
+
+📂 Deliverables
+
+✅ Raw Dataset
+
+✅ Cleaned Dataset
+
+✅ Power BI Dashboard (.pbix)
+
+✅ Dashboard Screenshot (.png)
+
+✅ Dashboard Video (.mp4)
+
+📜 License
+
+Licensed under MIT License – free to use and adapt.
 Open the .pbix file in Power BI Desktop
 
 Explore and interact with filters & visuals
