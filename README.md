@@ -10,11 +10,11 @@ This project turns raw airline data into actionable insights using Power BI. The
 
 📊 Dashboard Highlights  
 
-✔️ Key KPIs – Total Flights, Revenue, Max/Min Price, Duration  
-✔️ Price Analysis – By class, airline, and days left before departure  
-✔️ Flight Distribution – By departure time and number of stops  
-✔️ Route Insights – Source vs destination city matrix  
-✔️ Interactive Filters – City, Airline, Class, Stops, Departure Time  
+ ✔️ Key KPIs – Total Flights, Revenue, Max/Min Price, Duration  
+ ✔️ Price Analysis – By class, airline, and days left before departure  
+ ✔️ Flight Distribution – By departure time and number of stops  
+ ✔️ Route Insights – Source vs destination city matrix  
+ ✔️ Interactive Filters – City, Airline, Class, Stops, Departure Time  
 
 💡 Insights Discovered  
 
@@ -34,28 +34,20 @@ This project turns raw airline data into actionable insights using Power BI. The
 
 1. Clone this repo:  
 
-git clone https://github.com/<your-username>/<repo-name>.git  
+   git clone https://github.com/<your-username>/<repo-name>.git  
 
 2. Open dashboard.pbix in Power BI Desktop.  
 3. Interact with filters to explore flight patterns and price trends.  
 
-📂 Deliverables
+📂 Deliverables  
 
-✅ Raw Dataset
-
-✅ Cleaned Dataset
-
-✅ Power BI Dashboard (.pbix)
-
-✅ Dashboard Screenshot (.png)
-
-✅ Dashboard Video (.mp4)
+ ✅ Raw Dataset  
+ ✅ Cleaned Dataset  
+ ✅ Power BI Dashboard (.pbix)  
+ ✅ Dashboard Screenshot (.png)  
+ ✅ Dashboard Video (.mp4)  
 
 📜 License
 
 Licensed under MIT License – free to use and adapt.
-Open the .pbix file in Power BI Desktop
 
-Explore and interact with filters & visuals
-
-📸 Dashboard Preview
