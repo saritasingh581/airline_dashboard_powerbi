@@ -34,8 +34,8 @@ This project turns raw airline data into actionable insights using Power BI. The
 
 1. Clone this repo:  
 
-   git clone https://github.com/<your-username>/<repo-name>.git  
-
+  git clone https://github.com/saritasingh581/airline_dashboard_powerbi.git    
+  
 2. Open dashboard.pbix in Power BI Desktop.  
 3. Interact with filters to explore flight patterns and price trends.  
 
