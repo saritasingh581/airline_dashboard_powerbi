@@ -18,30 +18,26 @@ This project turns raw airline data into actionable insights using Power BI. The
 
 💡 Insights Discovered  
 
- - Business Class makes up ~89% of bookings  
+- Business Class makes up ~89% of bookings  
 - Air India & Vistara show the highest prices, AirAsia the lowest  
 - Ticket prices fall as departure day approaches  
 - Evening & Morning slots have the highest flight counts  
 - Most flights operate with one stop  
 
-🛠 Tools Used
+🛠 Tools Used  
 
-Power BI Desktop → Dashboard creation
+- Power BI Desktop → Dashboard creation  
+- Excel / Power Query → Data cleaning  
+- Dataset → Taken from Kaggle  
 
-Excel / Power Query → Data cleaning
+🚀 Get Started  
 
-Dataset → Taken from Kaggle
+1. Clone this repo:  
 
-🚀 Get Started
+git clone https://github.com/<your-username>/<repo-name>.git  
 
-Clone this repo:
-
-git clone https://github.com/<your-username>/<repo-name>.git
-
-
-Open dashboard.pbix in Power BI Desktop.
-
-Interact with filters to explore flight patterns and price trends.
+2. Open dashboard.pbix in Power BI Desktop.  
+3. Interact with filters to explore flight patterns and price trends.  
 
 📂 Deliverables
 
