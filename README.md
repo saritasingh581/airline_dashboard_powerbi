@@ -8,25 +8,21 @@ This project turns raw airline data into actionable insights using Power BI. The
 - Power BI Dashboard → Interactive .pbix file  
 - Dashboard Preview → Image (.png) & Walkthrough (.mp4)  
 
-📊 Dashboard Highlights
+📊 Dashboard Highlights  
 
-✔️ Key KPIs – Total Flights, Revenue, Max/Min Price, Duration
-✔️ Price Analysis – By class, airline, and days left before departure
-✔️ Flight Distribution – By departure time and number of stops
-✔️ Route Insights – Source vs destination city matrix
-✔️ Interactive Filters – City, Airline, Class, Stops, Departure Time
+✔️ Key KPIs – Total Flights, Revenue, Max/Min Price, Duration  
+✔️ Price Analysis – By class, airline, and days left before departure  
+✔️ Flight Distribution – By departure time and number of stops  
+✔️ Route Insights – Source vs destination city matrix  
+✔️ Interactive Filters – City, Airline, Class, Stops, Departure Time  
 
-💡 Insights Discovered
+💡 Insights Discovered  
 
-Business Class makes up ~89% of bookings
-
-Air India & Vistara show the highest prices, AirAsia the lowest
-
-Ticket prices fall as departure day approaches
-
-Evening & Morning slots have the highest flight counts
-
-Most flights operate with one stop
+ - Business Class makes up ~89% of bookings  
+- Air India & Vistara show the highest prices, AirAsia the lowest  
+- Ticket prices fall as departure day approaches  
+- Evening & Morning slots have the highest flight counts  
+- Most flights operate with one stop  
 
 🛠 Tools Used
 
